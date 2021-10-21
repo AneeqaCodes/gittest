@@ -1,2 +1,1 @@
-# gittest
 # CS-and-SE
